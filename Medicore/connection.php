@@ -3,8 +3,8 @@
 function OpenConnection()
  {
  $dbhost = "localhost";
- $dbuser = "root";
- $dbpass = "";
+ $dbuser = "root"; // user need to Enter their user name of phpadmin
+ $dbpass = "root"; // user need to Enter their password of phpadmin here
  $db = "medic2";
 
 

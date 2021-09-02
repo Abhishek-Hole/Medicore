@@ -10,6 +10,7 @@ To use the website read the document and follow the steps:-
 
 5. Click on the choose file button of the Import tab then open Final_data2.sql databse from files ( C:\xampp\htdocs\Medicore\files ). 
    then hit on go button situated at end of the Import tab. 
+   user should enter their credential in connection.php 
 
 6. Now open a new tab of your browser and type localhost/Medicore/home.html in url and press Enter.
 
